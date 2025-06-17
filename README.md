@@ -224,4 +224,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: url is active
+
+
+Update: Link is now responsive and functioning
